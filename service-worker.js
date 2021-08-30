@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eldohubchallenge1/precache-manifest.8c63640cf5d9a83a880b93068bba2aa6.js"
+  "/eldohubchallenge1/precache-manifest.bd00aee1e0658d7d010107b5a7841d31.js"
 );
 
 self.addEventListener('message', (event) => {
